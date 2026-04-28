@@ -1,4 +1,4 @@
-# Open Source Technologies Lab - C++ Exercises
+# Open Source Technologies Lab 
 
 This repository contains C++ lab exercises for the Open Source Technologies Lab.
 
